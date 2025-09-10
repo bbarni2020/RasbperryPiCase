@@ -4,7 +4,7 @@ This is a 3D-printable case for the Raspberry Pi 4 Model B. I built it in Fusion
 
 
 ### Features
-- Designed in Fusion 360 (the .step, .obj, .fbx, and .mtl files are all here—take your pick)
+- Designed in Fusion 360 (the .step, .stl, .obj, .fbx, and .mtl files are all here—take your pick)
 - Raspberry logo cutout on the top (for style points and a bit of airflow)
 - Fan mount: You can slap a small fan on top if your Pi runs hot (I use a 30mm one, but you do you)
 - All ports are cut out: USB, HDMI, audiox, power, and even the camera/display slots
